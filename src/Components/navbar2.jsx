@@ -1,6 +1,6 @@
 import React from "react";
 
-const Navbar = () => {
+const Navbar2 = () => {
   return (
     <div>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
@@ -44,22 +44,22 @@ const Navbar = () => {
                 </a>
                 <ul className="dropdown-menu text-left">
                   <li>
-                    <a className="dropdown-item" href="/about">
+                    <a className="dropdown-item page-scroll" href="#mission">
                       Our mission
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="/about">
+                    <a className="dropdown-item page-scroll" href="#why">
                       Why we do it
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="/about">
+                    <a className="dropdown-item page-scroll" href="#how">
                       How we do it
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="/about">
+                    <a className="dropdown-item page-scroll" href="#who">
                       Who we are
                     </a>
                   </li>
@@ -73,4 +73,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default Navbar2;

@@ -1,10 +1,33 @@
 {
   "Header": {
-    "title": "Share love and spread joy with ease!",
-    "paragraph": "Start celebrating every occasion in style with our easy-to-use gifting platform",
+    "title": "AMERICAS BIRTHDAY FUND FOR HUNGER CHALLENGE.",
+    "paragraph": "Gets you a gifted $75 shopping voucher to guarantee feeding starving families.",
     "button": "Learn more"
   },
   "About": {
-    "paragraph": ""
+    "title": "About Us",
+    "mission": "Our Mission",
+    "why": "Why we do it",
+    "how": "How we do it",
+    "who": "Who we are",
+    "who1": "We pride ourselves as the Care Shopping Community!",
+    "who2": "Care Shopping Community is a free membership social platform created to guarantee recurring donations for feeding starving families by enabling you to afford from $250 Birthday Shopping Fun Day Annually with no money in their pocket through a one hundred percent annual remote peer to peer two-way birthday gift pledging means with up to 90 days flexible gift pledge payment plan to give you financial peace of mind. while having equal freedom to socially interact freely with each other.",
+    "intro": "Why stress over finding the perfect gift? From a big milestone to a small token of appreciation. Start celebrating every occasion in style with our easy-to-use gifting platform.",
+    "mission1": "To end hunger in America and beyond by unlocking new shopping possibilities to guarantee recurring donations to feed starving families. ",
+    "mission2": "The domino effect of us guaranteeing donation from 124million likely Birthday Shopping Fun Day Customers in America will result with us donating up to $2.3Billion Annually by 2029 to help serve meals to more than 34 million people, including 9 million children, who are food insecure in the United States through organizations established to fight hunger.",
+    "why1": "According to the United States Department Of Agriculture, more than 34 million people, including 9 million children, in the United States Are Food Insecure. At the same time, it has been estimated that almost 800 million people worldwide don’t have enough food to eat. This is quite a staggering figure.",
+    "question1": "I know you are wondering what birthdays have got to do with a hunger cause",
+    "why2": "It’s a no-brainer; gifting all over the world is mainly exercised during birthday celebrations with 74% of Americans currently buying gifts for others so they can use them, with the current market estimated to be a staggering $162B and expected to reach $388B by 2027.",
+    "paragraphWhy": "We offer a Community platform that guarantees to impact lives when you get:",
+    "Why": [
+        "Birthday Shopping – With no money",
+        "Best prices - When Shopping.",
+        "Personalized Experience - When Buying",
+        "Making Money - When Serving Shoppers."
+    ]
+  },
+  "Works": {
+    "title": "How it works",
+    "paragraph": "Say goodbye to wanting something badly for your birthday but not being able to afford it or when your family and friends gifted items don’t match your Shopping Preference."
   }
 }
